@@ -64,8 +64,8 @@ const PortfolioSection = () => {
   };
 
   return (
-    <section className="portfolio-section">
-      <h2>Our Projects</h2>
+    <section className="portfolio-section" id="portfolio-section">
+      <h2>Our Products</h2>
       <i className="fa-solid fa-arrow-left" onClick={scrollPrev}></i>
       <div className="portfolio-container" ref={portfolioRef}>
         <div className="portfolio-wrapper">

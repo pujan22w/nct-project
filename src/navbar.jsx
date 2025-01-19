@@ -5,12 +5,10 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        {/* Left Side: Image */}
         <div className="nav-image">
           <img src="photos/Homelogo.webp" alt="Logo" />
         </div>
 
-        {/* Right Side: Navigation Links */}
         <ul className="nav-menu">
           <li className="nav-item">
             <a href="#" className="nav-link">

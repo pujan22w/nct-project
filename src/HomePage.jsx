@@ -22,7 +22,7 @@ function HomePage() {
       </section>
 
       {/* About Us */}
-      <section className="about-section">
+      <section className="about-section" id="about-section">
         <h2>About Us</h2>
         <p>
           Nepal Creative Tech Soft Pvt. Ltd (NCT) is an innovative IT solutions

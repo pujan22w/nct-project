@@ -53,7 +53,7 @@ const ServiceSection = () => {
   };
 
   return (
-    <section className="services-section">
+    <section className="services-section" id="services-section">
       <h2>Our Services</h2>
       <i className="fa-solid fa-arrow-left" onClick={scrollPrev}></i>
       <div className="services-container" ref={serviceRef}>
